@@ -1,0 +1,138 @@
+Komentar,Sentimen
+"['aku', 'udah', 'pake', 'nih']",positif
+"['aku', 'dah', 'order', 'produk', 'nya', 'katanya', 'beli', 'gratis', 'jam', 'tangan', 'tapi', 'kok', 'gak', 'ada', 'jam', 'tangan', 'nya', 'sih']",negatif
+"['dah', 'bulan', 'pake', 'masih', 'kinclong']",positif
+"['kenapa', 'gada', 'size', 'kecil', 'huhu', 'paling', 'kecil', 'masa']",negatif
+"['sepatunya', 'bagus', 'tp', 'beratt', 'banget', 'sumpahh']",negatif
+"['bisa', 'langsung', 'cek', 'out', 'hee']",positif
+"['keren', 'sih', 'menurut', 'saya']",positif
+"['enak', 'di', 'pakek']",positif
+"['mending', 'ke', 'lottemart', 'ajah', 'kemarin', 'saya', 'beli', 'di', 'lottemart', 'bener', 'harganya', 'ribu', 'ko']",positif
+"['gmn', 'klo', 'mo', 'order']",netral
+"['', 'bru', 'ngetes', 'pesan', 'tgl', 'kmren', 'd', 'shopee', 'nih', 'baru', 'nyampe', 'brusan', 'tgl', 'hri', 'ni', 'alhamdulillah', 'x', 'ehhh', 'gak', 'taux', 'yg', 'dtg', 'asliii', 'sumpah', 'bgus', 'bgt', 'realpict', 'guys', 'buruan', 'pesan', 'deh', 'kalian', 'asli', 'emng', 'bgusringan', 'recommended', 'pokoke']",positif
+"['untuk', 'bagian', 'bawah', 'nya', 'empuk', 'apa', 'keras', 'gan']",netral
+"['sepatu', 'rekomended', 'sih', 'larocking', 'semoga', 'harga', 'ttp', 'stabil', 'ya', 'kalo', 'naek', 'terus', 'gabakalan', 'laku']",positif
+"['mantab', 'dong']",positif
+"['udah', 'beli', 'kereenn', 'banget', 'dengan', 'harga', 'segitu', 'di', 'tunggu', 'sz', 'nya']",positif
+"['pengen', 'beli', 'ke', 'lokasi', 'gk', 'bisa']",negatif
+"['nih', 'udah', 'beli', 'bagus', 'rapih', 'keren', 'empuk', 'enak', 'di', 'pake', 'ringan', 'pokoknya']",positif
+"['nyaman', 'banget', 'd', 'pake']",positif
+"['sepatunya', 'beraaat']",negatif
+"['udah', 'beli', 'x']",positif
+"['enak', 'bro', 'empuk']",positif
+['mau'],positif
+"['cara', 'ordernya', 'gmn']",positif
+['mau'],positif
+"['udah', 'hampir', 'th', 'langganan', 'sepatu', 'ini', 'sebagus', 'itu', 'loh', 'bahan', 'nya']",positif
+"['sudah', 'beli', 'nyaman', 'banget', 'nget', 'nget']",positif
+"['mantaap', 'alhamdulillah', 'syh', 'sudah', 'beli', 'warna', 'hitam']",positif
+"['aku', 'sudah', 'punya', 'juga', 'nih', 'enak', 'dipake', 'dan', 'awet', 'teman', 'dikantor', 'juga', 'pada', 'pesan', 'gara', 'lihat', 'sepatuku', 'awett']",positif
+"['ukuran', 'ada', 'tidak']",netral
+"['aku', 'pesen', 'satu']",positif
+['hilang'],netral
+"['kapan', 'kapan', 'beli', 'lagih', 'laah', 'semoga', 'sajjh', 'stok', 'nya', 'nambah', 'terus']",positif
+"['no', 'ada']",netral
+"['no', 'ada', 'g', 'gan']",netral
+"['alhamdulillah', 'udah', 'punya', 'varian', 'artemis', 'dan', 'raptor', 'pengen', 'beli', 'lagi', 'yg', 'dexter', 'hitam', 'abu']",positif
+"['sediain', 'ukuran', 'dong', 'kak']",netral
+"['aih', 'gk', 'ada', 'ukuran', '']",netral
+"['ukuran', 'plisssss']",netral
+"['mantap', 'dan', 'bagus', 'sekali']",positif
+"['recommended', 'sekalii']",positif
+"['ada', 'yg', 'wrn', 'full', 'putih', 'gak', 'kk']",netral
+"['', 'ada', 'gk']",netral
+"['minat', 'warna', 'hitam']",positif
+"['ah', 'banget']",netral
+"['ada', 'gratis', 'ongkirnya']",positif
+"['tas', 'ransel', 'ada', 'kak', '']",netral
+"['keren', 'aku', 'juga', 'udah', 'beli', 'bahannya', 'bagus', 'banget', 'gak', 'perlu', 'sol', 'lagi']",positif
+"['pernah', 'beli', 'dlu', 'tpi', 'via', 'wa', 'sepatunya', 'keren', 'tp', 'mohon', 'maaf', 'adminnya', 'judes', 'banget', 'kagak', 'nahaaaannn']",negatif
+"['ada', 'ukuran', '']",netral
+"['licin', 'bener', 'ini', 'sepatu', 'ya']",negatif
+"['blom', 'sm', 'ongkir']",netral
+"['apakah', 'masih', 'ada']",netral
+"['baru', 'aj', 'chekout', 'shopee', 'beliin', 'suami', 'sepatu', 'ini', 'gak', 'tau', 'klo', 'komen', 'orng', 'berat', 'sol', 'nya', 'duhh', 'mudahan', 'suami', 'mau', 'make', 'klo', 'brng', 'nya', 'dtg']",positif
+"['saya', 'udh', 'cek', 'ukuran', 'ga', 'ada', 'ya', 'ka']",netral
+"['lihat', 'dilazada', 'habis', 'semua', 'tinggal', 'nomer', 'besar']",netral
+"['harga', 'segini', 'wort', 'it', 'lah']",positif
+"['banyak', 'yg', 'sudah', 'sold', 'out', 'gak', 'restock', 'lagi', 'min']",netral
+"['seri', 'heliosnya', 'apakah', 'masih', 'diproduksi']",netral
+"['ukuran', 'ga', 'muat', 'sediain', 'ukuran', 'atau', 'dong']",netral
+"['belinya', 'lewat', 'mana', 'gann']",netral
+"['sayang', 'gdaa', 'size', '']",netral
+"['sy', 'sdh', 'beli', 'keren', 'dah', 'pokoknya']",positif
+"['min', 'ukuran', 'adakah']",netral
+"['mudah', 'jebol', 'bawahnya']",negatif
+"['merah', 'ada', '']",netral
+"['emperor', 'hitam', '']",netral
+"['cara', 'psn', 'nya']",netral
+"['keren', 'recommended', 'bgtbahan', 'lentur', 'adem']",positif
+"['pernah', 'beli', 'tapi', 'yang', 'datang', 'mengecewakan']",negatif
+"['udah', 'beli', 'meskipun', 'kegedean']",positif
+"['ada', 'shoppe']",positif
+"['zise', 'adakah', '']",negatif
+"['udah', 'x', 'beli']",positif
+"['jlk', 'baru', 'seminggu', 'pke', 'udh', 'copot', 'lem', 'an', 'nyaa']",negatif
+"['size', 'ada', 'kah', 'yg', 'full', 'hitam']",netral
+"['catnya', 'keliatan', 'bang', 'kaya', 'kw', 'padahal', 'brand', 'sendiri']",negatif
+"['di', 'shoppe', 'banyak', 'yg', 'kosong', 'min', 'kapan', 'restok', 'lagi']",netral
+"['untuk', 'perempuannya', 'ada', 'ga', 'ka']",netral
+"['iki', 'toh', 'seng', 'mbok', 'serr', 'yang']",netral
+"['siap', 'siap', 'naik', 'nih', 'harganya']",positif
+"['bagusan', 'aerostreet', 'atau', 'ini']",netral
+"['nomer', 'dan', 'ada', '']",netral
+"['stocknya', 'sedikit', 'ukuran', 'padahal', 'kaki', 'saya', 'gede', 'tapi', 'stocknya', 'sedikit', 'mengsad']",netral
+"['min', 'varian', 'raptor', 'hitam', 'abunya', 'kapan', 'restock', 'min']",netral
+"['bukannya', 'dari', 'dulu', 'emang', 'harganya', 'segitu']",netral
+"['untuku', 'ade', 'size', 'ga', 'yee', 'kak']",netral
+"['waran', 'hitam', 'ready', 'bos', '']",netral
+"['mau', 'beli', 'ada', 'gak', 'ukuran', '']",netral
+"['mantap', 'aku', 'dh', 'punya', 'ini', 'malah', 'mau', 'beli', 'lagi', 'mumpung', 'promo', 'shopee']",positif
+"['ad', 'nmor', 'nya', 'ngga']",netral
+"['grosiran', 'boleh']",netral
+"['emperor', 'ready', 'ga', 'size', '']",netral
+"['bang', 'kapan', 'update', 'stok', 'di', 'shope']",netral
+"['ini', 'klo', 'gak', 'di', 'sol', 'lg', 'kuat', 'gak', 'klo', 'buat', 'maen', 'badminton']",netral
+"['ukuran', 'ada', 'ga', '']",netral
+"['nomor', 'ada', 'kak']",netral
+"['ukuran', 'insole', 'sepatu', 'nya', 'brp', 'ya']",netral
+"['pengen', 'beli', 'tapi', 'ongkirnya', 'mahal', 'bangetemang', 'di', 'lazada', 'gak', 'ada', 'ya']",negatif
+"['ow', 'iki', 'toh']",netral
+['mantap'],positif
+"['numpang', 'tanya', 'enak', 'dan', 'awet', 'ga', 'utk', 'olahraga', 'jogginglari', 'pagi']",netral
+"['mama', 'mau']",positif
+"['buat', 'sepatu', 'lari', 'rekomen', 'gak', 'nih', 'ada', 'yg', 'sdh', 'pake', 'khpengen', 'beli']",netral
+"['ukuran', 'ga', 'ada', 'yah', '']",netral
+"['dilihat', 'review', 'userbuyer', 'di', 'shoope', 'dan', 'marketplace', 'lainnya', 'sepertinya', 'kurang', 'okdari', 'harganya', 'juga', 'ga', 'masuk', 'akal', 'untuk', 'kualitas', 'bagus']",positif
+"['murah', 'tp', 'gk', 'murahan']",positif
+['murceu'],netral
+['mantulll'],positif
+"['kerennn', 'beli', 'agi', 'ah', '']",positif
+"['lg', 'order', 'mudahan', 'sesuai', 'harapan']",positif
+"['punya', 'pasang', 'nunggu', 'red', 'black', 'lagi', 'gaada', 'ni', 'abu', 'mulu', 'yg', 'baru']",positif
+"['banyak', 'yang', 'kosong']",negatif
+"['ad', 'size', 'kah']",netral
+"['udh', 'beli', 'tp', 'kekecilan', 'pengen', 'jual', 'lg']",negatif
+"['sdh', 'cod', 'dr', 'lazada', 'to', 'blm', 'yampe']",netral
+"['cod', 'di', 'siantar', 'sumut', 'brp', '']",netral
+"['gaes', 'ini', 'sepatu', 'inject', 'atau', 'leman']",netral
+"['keren', 'larocking', 'official', 'shop']",positif
+"['minta', 'no', 'wa']",netral
+"['licin', 'bagian', 'tumitnya']",negatif
+"['mmng', 'bagus', 'sepatunya']",positif
+"['mau', 'doungmau']",positif
+"['sepatu', 'nya', 'keren', 'saya', 'sudah', 'beli', 'pasang']",positif
+"['sepatunya', 'di', 'catalog', 'bagus', 'bnyk', 'modelnya', 'tp', 'ga', 'available', 'yg', 'gua', 'pengen', 'ukurannya', 'juga', 'g', 'ada', 'yg', '']",positif
+"['mantulll', 'thn', 'lbih', 'gk', 'jebol', 'tanp', 'sol', 'woy', 'ini', 'saepstu', 'murah', 'adem', 'enteng', 'joss', 'paraaahh', 'buktiin', 'dah', 'w', 'udh', 'beli', 'pasang']",positif
+"['tolong', 'dong', 'artemis', 'zise', '']",netral
+"['sepatu', 'enteng', 'dan', 'kekinian']",positif
+"['sepatunya', 'keren', 'larocking', 'bisa', 'juga', 'beli', 'di', 'shopee', 'loh', 'biar', 'dapet', 'gratis', 'ongkir']",positif
+"['berasa', 'orang', 'kaya', 'awak']",positif
+"['ada', 'ukuran', 'engak', 'min']",netral
+"['promo', 'smpe', 'kpan', 'rb']",netral
+"['aku', 'suka', 'produk', 'larocking', 'garansi', 'produknya', 'bener', 'nyata', 'hanya', 'saja', 'saya', 'ingin', 'beli', 'dg', 'model', 'yg', 'lain', 'adakah', 'min']",positif
+"['ak', 'udah', 'dm', 'di', 'ig', 'kak']",netral
+"['enak', 'di', 'pakai', 'awet', 'juga', 'gw', 'pakai', 'hari', 'hari', 'buat', 'kerja', 'joss', 'lahh', 'beli', 'di', 'tokped']",positif
+"['yg', 'udh', 'ngebet', 'ama', 'produknya', 'larocking', 'langsung', 'aja', 'ke', 'shopeenya', 'mumpung', 'ada', 'event', 'ramadhan', 'banyak', 'promonya']",positif
+"['waah', 'keren', 'nih', 'produk', 'dari', 'larocking', 'ada', 'di', 'shopee', 'loh', 'kalian', 'bisa', 'cek', 'harga', 'detail', 'lengkap', 'produk', 'dan', 'juga', 'diskonnya', 'disini', 'ya']",positif
+"['pesan', 'dari', 'tiktokshop', 'ternyata', 'proses', 'pengiriman', 'lama']",negatif
